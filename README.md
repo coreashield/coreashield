@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 Android Developer | AI Enthusiast | Always learning and building something new.
 <table>
   <tr>
     <td>
